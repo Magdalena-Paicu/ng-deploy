@@ -1,0 +1,1 @@
+import{T as a,ua as n,va as o,xa as r,ya as i}from"./chunk-6GDPFD4C.js";var d=(()=>{class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=a({type:e,selectors:[["app-user2"]],standalone:!0,features:[i],decls:4,vars:0,template:function(t,m){t&1&&(n(0,"h1"),r(1,"Edit"),o(),n(2,"span"),r(3," Componenta User2 works !"),o())}})}return e})();export{d as a};
